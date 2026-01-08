@@ -26,16 +26,52 @@ CSS3
 Font Awesome Icons
 
 ## 📁 Project Structure
+<pre>
 amazon-clone/
 │
 ├── index.html
 ├── style.css
 └── screenshots/
+</pre>
+
+## 📸 Screenshots
+
+## ⚙️ How to Run Locally
+
+Clone the repository:
+
+git clone https://github.com/usama247550/amazon-clone-frontend.git
+
+Open the project folder
+
+Run index.html in your browser
+(Double click or use Live Server)
+
+## 🎯 Learning Objectives
+
+Practice HTML semantic structure
+
+Improve CSS layout & positioning
+
+Build real-world UI clone
+
+Understand large-scale webpage structure
+
+##👨‍💻 Author
+
+Usama
+
+Frontend / MERN Stack Developer
+
+🌱 Currently learning advanced MERN Stack
+
+##⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub — it really helps!
 
 
 
 
 
 
-Google Fonts
 
