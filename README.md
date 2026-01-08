@@ -36,11 +36,11 @@ amazon-clone/
 
 ## 📸 Screenshots
 
-<table>
+<table sylle="align-items='center' ">
   <tr>
     <td><img src="screenshots/home-top.png" width="300"></td>
-    <td><img src="screenshots/home-top.png" width="260"></td>
-    <td><img src="screenshots/home-top.png" width="260"></td>
+    <td><img src="screenshots/home-products.png" width="260"></td>
+    <td><img src="screenshots/footer.png" width="260"></td>
   </tr>
 </table>
 
@@ -74,6 +74,7 @@ Usama MERN Stack Developer
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub — it really helps!
+
 
 
 
