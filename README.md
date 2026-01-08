@@ -36,6 +36,14 @@ amazon-clone/
 
 ## 📸 Screenshots
 
+<table>
+  <tr>
+    <td><img src="home.png" width="260"></td>
+    <td><img src="products1.png" width="260"></td>
+    <td><img src="products2.png" width="260"></td>
+  </tr>
+</table>
+
 ## ⚙️ How to Run Locally
 
 Clone the repository:
@@ -57,17 +65,16 @@ Build real-world UI clone
 
 Understand large-scale webpage structure
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-Usama
-
-Frontend / MERN Stack Developer
+Usama MERN Stack Developer
 
 🌱 Currently learning advanced MERN Stack
 
-##⭐ Support
+## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub — it really helps!
+
 
 
 
