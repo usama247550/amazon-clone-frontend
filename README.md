@@ -38,7 +38,7 @@ amazon-clone/
 
 <table>
   <tr>
-    <td><img src="home.png" width="260"></td>
+    <td><img src="screenshoot/home-top" width="260"></td>
     <td><img src="products1.png" width="260"></td>
     <td><img src="products2.png" width="260"></td>
   </tr>
@@ -74,6 +74,7 @@ Usama MERN Stack Developer
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub — it really helps!
+
 
 
 
